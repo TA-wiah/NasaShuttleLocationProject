@@ -1,6 +1,6 @@
 # NASA Space Shuttle Location Project
 
-----------------Creator CyberHatcher [Jeffrey]--------------------
+#----------------Creator CyberHatcher [Jeffrey]--------------------
 
 This project aims to track the current location of retired NASA space shuttles using publicly available data and APIs. 
 It provides a simple interface to retrieve information about the current location of these iconic spacecraft.
